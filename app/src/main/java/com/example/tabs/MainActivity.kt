@@ -37,7 +37,6 @@ class MainActivity : AppCompatActivity() {
                 val posicion = p0!!.position
                 viewPager.currentItem = posicion
             }
-
         })
     }
 }
